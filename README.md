@@ -13,7 +13,7 @@ I Have applied Repository Design Pattern
 
 ## App ScreenShots
 
-Here are some screeshots for the application:
+Here are some screenshots for the application:
 
 <p>
 <img src="Assets/screenShots/n1.png"  width="250">
