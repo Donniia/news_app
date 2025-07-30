@@ -25,6 +25,4 @@ Here are some screeshots for the application:
 
 ### 📽️ Demo Video
 
-[▶️ Watch the video](### 📽️ Demo Video
-
 [▶️ Watch the video](https://drive.google.com/file/d/1ihWg0knvlLfIihl6clGPXDBk7NcnGPmg/view?usp=drive_link)
